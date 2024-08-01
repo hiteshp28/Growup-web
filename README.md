@@ -18,10 +18,5 @@ Top gainers & loosers: GrowUp provides top resources such as tutorials, articles
 Market Status : GrowUp provides Market status of all segment at one place.
 
 Taxes: User Can Track Their Taxes 
-
-
-
-![growup_5](https://github.com/user-attachments/assets/729d1e83-1f1c-4f5d-83b9-5ee8cfb7bfcc)
-
 ![growup_3](https://github.com/user-attachments/assets/c53ee165-c6d3-440e-8509-67eeb4f8b8c5)
 
