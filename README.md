@@ -1,4 +1,5 @@
 GrowUp
+
 ![growup_1](https://github.com/user-attachments/assets/7ff51f5e-d5a8-421a-9b09-e2fe9d321a9c)
 
 GrowUp is a virtual trading platform designed to provide users with an interactive experience in simulated stock trading. With a range of features and risk management tools,
@@ -19,6 +20,8 @@ Market Status : GrowUp provides Market status of all segment at one place.
 Taxes: User Can Track Their Taxes 
 
 ![growup_4](https://github.com/user-attachments/assets/ead4e54e-ed71-4b57-b105-e9c380e4d3b9)
+
 ![growup_5](https://github.com/user-attachments/assets/729d1e83-1f1c-4f5d-83b9-5ee8cfb7bfcc)
+
 ![growup_3](https://github.com/user-attachments/assets/c53ee165-c6d3-440e-8509-67eeb4f8b8c5)
 
