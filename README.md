@@ -12,14 +12,14 @@ Virtual Trading: Users can create and manage their virtual portfolios, buy and s
 Real-Time Market Data: GrowUp provides real-time market data, enabling users to make informed decisions based on the latest stock prices and trends.
 
 Risk Management Tools: GrowUp offers a risk management tools to help users evaluate their investment strategies, set stop-loss orders, and manage their risk exposure effectively.
-
+![growup_4](https://github.com/user-attachments/assets/ead4e54e-ed71-4b57-b105-e9c380e4d3b9)
 Top gainers & loosers: GrowUp provides top resources such as tutorials, articles, and insights to help users enhance their understanding of stock trading and investment strategies.
 
 Market Status : GrowUp provides Market status of all segment at one place.
 
 Taxes: User Can Track Their Taxes 
 
-![growup_4](https://github.com/user-attachments/assets/ead4e54e-ed71-4b57-b105-e9c380e4d3b9)
+
 
 ![growup_5](https://github.com/user-attachments/assets/729d1e83-1f1c-4f5d-83b9-5ee8cfb7bfcc)
 
